@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RobMilinski
-- 👀 I’m interested in HTML, CSS, JavaScript and Python/Django.
-- 🌱 I’m currently learning a Graduate Certificate in Programming and Development.
+- 👀 I’m interested in Python/Django and JavaScript/React
+- 😊 I'm proficient in HTML, CSS and Bootstrap for FrontEnd development.
+- 🌱 I’m currently learning a Graduate Certificate in Programming and Software Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
